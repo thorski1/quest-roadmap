@@ -10,9 +10,9 @@ HTML = """<!DOCTYPE html>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Quest Engine — Roadmap</title>
-<meta name="description" content="The gold standard educational game engine. 6 games, 89 chapters, 4,279 challenges.">
+<meta name="description" content="The gold standard educational game engine. 6 games, 89 chapters, 4,366 challenges.">
 <meta property="og:title" content="Quest Engine Roadmap">
-<meta property="og:description" content="6 games, 89 chapters, 4,279 challenges across education, DevOps, AI, and 3 languages.">
+<meta property="og:description" content="6 games, 89 chapters, 4,366 challenges across education, DevOps, AI, and 3 languages.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
@@ -92,16 +92,16 @@ HTML = """<!DOCTYPE html>
 
   <div class="stats">
     <div class="stat"><div class="sv" style="color:var(--p)">6</div><div class="sl">Games</div></div>
-    <div class="stat"><div class="sv" style="color:var(--sec)">89</div><div class="sl">Chapters</div></div>
-    <div class="stat"><div class="sv" style="color:var(--w)">4,279</div><div class="sl">Challenges</div></div>
+    <div class="stat"><div class="sv" style="color:var(--sec)">91</div><div class="sl">Chapters</div></div>
+    <div class="stat"><div class="sv" style="color:var(--w)">4,366</div><div class="sl">Challenges</div></div>
     <div class="stat"><div class="sv" style="color:var(--acc)">8</div><div class="sl">Themes</div></div>
   </div>
 
   <div class="sec">
     <div class="sec-title">Live Games <span class="badge b-ship">Deployed</span></div>
     <div class="games">
-      <div class="gc"><div class="gc-name">🌸 The Primer</div><div class="gc-stats">29 chapters · 1,421 challenges · For kids ages 5-12</div><div class="gc-url">primer-ecru.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
-      <div class="gc"><div class="gc-name">⚡ NEXUS Quest</div><div class="gc-stats">28 chapters · 1,593 challenges · For developers</div><div class="gc-url">nexus-quest-eta.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
+      <div class="gc"><div class="gc-name">🌸 The Primer</div><div class="gc-stats">30 chapters · 1,463 challenges · For kids ages 5-12</div><div class="gc-url">primer-ecru.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
+      <div class="gc"><div class="gc-name">⚡ NEXUS Quest</div><div class="gc-stats">29 chapters · 1,638 challenges · For developers</div><div class="gc-url">nexus-quest-eta.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
       <div class="gc"><div class="gc-name">🧠 AI Academy</div><div class="gc-stats">8 chapters · 328 challenges · For everyone learning AI</div><div class="gc-url">ai-academy-iota-eight.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
       <div class="gc"><div class="gc-name">🐉 Learn Chinese</div><div class="gc-stats">8 chapters · 340 challenges · Mandarin from English</div><div class="gc-url">learn-chinese-pearl.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
       <div class="gc"><div class="gc-name">🌅 Learn Spanish</div><div class="gc-stats">8 chapters · 293 challenges · Spanish from English</div><div class="gc-url">learn-spanish-silk.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
@@ -156,7 +156,7 @@ HTML = """<!DOCTYPE html>
       <div class="tl-item"><div class="tl-dot tl-done"></div><div class="tl-title">v1.5 — Web Mode</div><div class="tl-desc">FastAPI + Jinja2, 2 themes, multi-pack hub</div><div class="tl-date">Mar 27, 2026</div></div>
       <div class="tl-item"><div class="tl-dot tl-done"></div><div class="tl-title">v2.0 — Full Platform</div><div class="tl-desc">Postgres, auth, 8 themes, PWA, sounds, daily challenges, leaderboards, 13+ page types</div><div class="tl-date">Mar 28, 2026</div></div>
       <div class="tl-item"><div class="tl-dot tl-done"></div><div class="tl-title">6 Games Launch</div><div class="tl-desc">Primer (29ch), NEXUS Quest (28ch), AI Academy, Learn Chinese, Learn Spanish, Learn Japanese</div><div class="tl-date">Mar 30, 2026</div></div>
-      <div class="tl-item"><div class="tl-dot tl-done"></div><div class="tl-title">TTS + Rich Media</div><div class="tl-desc">Google Cloud Studio voices, images, code blocks, 4,279 challenges</div><div class="tl-date">Mar 31, 2026</div></div>
+      <div class="tl-item"><div class="tl-dot tl-done"></div><div class="tl-title">TTS + Rich Media</div><div class="tl-desc">Google Cloud Studio voices, images, code blocks, 4,366 challenges</div><div class="tl-date">Mar 31, 2026</div></div>
       <div class="tl-item"><div class="tl-dot tl-active"></div><div class="tl-title">v3.0 — Premium Experience</div><div class="tl-desc">Voice quality upgrade, premium game engine, AI tutor, video lessons</div><div class="tl-date">Coming soon</div></div>
       <div class="tl-item"><div class="tl-dot"></div><div class="tl-title">v4.0 — Social + Mobile</div><div class="tl-desc">Multiplayer, mobile app, social automation, spaced repetition</div><div class="tl-date">Planned</div></div>
       <div class="tl-item"><div class="tl-dot"></div><div class="tl-title">v5.0 — Ecosystem</div><div class="tl-desc">Classroom mode, certificates, challenge editor, plugin marketplace</div><div class="tl-date">Future</div></div>
