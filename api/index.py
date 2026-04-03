@@ -10,9 +10,9 @@ HTML = """<!DOCTYPE html>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Quest Engine — Roadmap</title>
-<meta name="description" content="The gold standard educational game engine. 6 games, 120 chapters, 5,531 challenges.">
+<meta name="description" content="The gold standard educational game engine. 6 games, 125 chapters, 5,731 challenges.">
 <meta property="og:title" content="Quest Engine Roadmap">
-<meta property="og:description" content="6 games, 120 chapters, 5,531 challenges across education, DevOps, AI, and 3 languages.">
+<meta property="og:description" content="6 games, 125 chapters, 5,731 challenges across education, DevOps, AI, and 3 languages.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
@@ -87,13 +87,13 @@ HTML = """<!DOCTYPE html>
 
   <div class="hero">
     <h1>🗺️ <span>Quest Engine</span> Roadmap</h1>
-    <p>The gold standard educational game engine — 6 games teaching kids, developers, AI practitioners, and language learners across 120 chapters.</p>
+    <p>The gold standard educational game engine — 6 games teaching kids, developers, AI practitioners, and language learners across 125 chapters.</p>
   </div>
 
   <div class="stats">
     <div class="stat"><div class="sv" style="color:var(--p)">6</div><div class="sl">Games</div></div>
-    <div class="stat"><div class="sv" style="color:var(--sec)">120</div><div class="sl">Chapters</div></div>
-    <div class="stat"><div class="sv" style="color:var(--w)">5,531</div><div class="sl">Challenges</div></div>
+    <div class="stat"><div class="sv" style="color:var(--sec)">125</div><div class="sl">Chapters</div></div>
+    <div class="stat"><div class="sv" style="color:var(--w)">5,731</div><div class="sl">Challenges</div></div>
     <div class="stat"><div class="sv" style="color:var(--acc)">82</div><div class="sl">Tests</div></div>
     <div class="stat"><div class="sv" style="color:var(--tb)">8</div><div class="sl">Themes</div></div>
   </div>
@@ -101,11 +101,11 @@ HTML = """<!DOCTYPE html>
   <div class="sec">
     <div class="sec-title">Live Games <span class="badge b-ship">Deployed</span></div>
     <div class="games">
-      <div class="gc"><div class="gc-name">🌸 The Primer</div><div class="gc-stats">41 chapters · 1,904 challenges · Ages 5-12</div><div class="gc-url">primer-ecru.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
-      <div class="gc"><div class="gc-name">⚡ NEXUS Quest</div><div class="gc-stats">38 chapters · 2,002 challenges · For developers</div><div class="gc-url">nexus-quest-eta.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
-      <div class="gc"><div class="gc-name">🧠 AI Academy</div><div class="gc-stats">11 chapters · 448 challenges · AI literacy for everyone</div><div class="gc-url">ai-academy-iota-eight.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
-      <div class="gc"><div class="gc-name">🐉 Learn Chinese</div><div class="gc-stats">10 chapters · 420 challenges · Mandarin from English</div><div class="gc-url">learn-chinese-pearl.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
-      <div class="gc"><div class="gc-name">🌅 Learn Spanish</div><div class="gc-stats">10 chapters · 373 challenges · Spanish from English</div><div class="gc-url">learn-spanish-silk.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
+      <div class="gc"><div class="gc-name">🌸 The Primer</div><div class="gc-stats">42 chapters · 1,944 challenges · Ages 5-12</div><div class="gc-url">primer-ecru.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
+      <div class="gc"><div class="gc-name">⚡ NEXUS Quest</div><div class="gc-stats">39 chapters · 2,042 challenges · For developers</div><div class="gc-url">nexus-quest-eta.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
+      <div class="gc"><div class="gc-name">🧠 AI Academy</div><div class="gc-stats">12 chapters · 488 challenges · AI literacy for everyone</div><div class="gc-url">ai-academy-iota-eight.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
+      <div class="gc"><div class="gc-name">🐉 Learn Chinese</div><div class="gc-stats">11 chapters · 460 challenges · Mandarin from English</div><div class="gc-url">learn-chinese-pearl.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
+      <div class="gc"><div class="gc-name">🌅 Learn Spanish</div><div class="gc-stats">11 chapters · 413 challenges · Spanish from English</div><div class="gc-url">learn-spanish-silk.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
       <div class="gc"><div class="gc-name">🌊 Learn Japanese</div><div class="gc-stats">10 chapters · 384 challenges · Japanese from English</div><div class="gc-url">learn-japanese-rose-two.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
     </div>
   </div>
