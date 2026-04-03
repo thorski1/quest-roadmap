@@ -10,9 +10,9 @@ HTML = """<!DOCTYPE html>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Quest Engine — Roadmap</title>
-<meta name="description" content="The gold standard educational game engine. 6 games, 103 chapters, 4,891 challenges.">
+<meta name="description" content="The gold standard educational game engine. 6 games, 112 chapters, 5,211 challenges.">
 <meta property="og:title" content="Quest Engine Roadmap">
-<meta property="og:description" content="6 games, 103 chapters, 4,891 challenges across education, DevOps, AI, and 3 languages.">
+<meta property="og:description" content="6 games, 112 chapters, 5,211 challenges across education, DevOps, AI, and 3 languages.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
@@ -87,13 +87,13 @@ HTML = """<!DOCTYPE html>
 
   <div class="hero">
     <h1>🗺️ <span>Quest Engine</span> Roadmap</h1>
-    <p>The gold standard educational game engine — 6 games teaching kids, developers, AI practitioners, and language learners across 103 chapters.</p>
+    <p>The gold standard educational game engine — 6 games teaching kids, developers, AI practitioners, and language learners across 112 chapters.</p>
   </div>
 
   <div class="stats">
     <div class="stat"><div class="sv" style="color:var(--p)">6</div><div class="sl">Games</div></div>
-    <div class="stat"><div class="sv" style="color:var(--sec)">103</div><div class="sl">Chapters</div></div>
-    <div class="stat"><div class="sv" style="color:var(--w)">4,891</div><div class="sl">Challenges</div></div>
+    <div class="stat"><div class="sv" style="color:var(--sec)">112</div><div class="sl">Chapters</div></div>
+    <div class="stat"><div class="sv" style="color:var(--w)">5,211</div><div class="sl">Challenges</div></div>
     <div class="stat"><div class="sv" style="color:var(--acc)">82</div><div class="sl">Tests</div></div>
     <div class="stat"><div class="sv" style="color:var(--tb)">8</div><div class="sl">Themes</div></div>
   </div>
@@ -101,9 +101,9 @@ HTML = """<!DOCTYPE html>
   <div class="sec">
     <div class="sec-title">Live Games <span class="badge b-ship">Deployed</span></div>
     <div class="games">
-      <div class="gc"><div class="gc-name">🌸 The Primer</div><div class="gc-stats">35 chapters · 1,664 challenges · Ages 5-12</div><div class="gc-url">primer-ecru.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
-      <div class="gc"><div class="gc-name">⚡ NEXUS Quest</div><div class="gc-stats">33 chapters · 1,802 challenges · For developers</div><div class="gc-url">nexus-quest-eta.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
-      <div class="gc"><div class="gc-name">🧠 AI Academy</div><div class="gc-stats">9 chapters · 368 challenges · AI literacy for everyone</div><div class="gc-url">ai-academy-iota-eight.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
+      <div class="gc"><div class="gc-name">🌸 The Primer</div><div class="gc-stats">39 chapters · 1,824 challenges · Ages 5-12</div><div class="gc-url">primer-ecru.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
+      <div class="gc"><div class="gc-name">⚡ NEXUS Quest</div><div class="gc-stats">36 chapters · 1,922 challenges · For developers</div><div class="gc-url">nexus-quest-eta.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
+      <div class="gc"><div class="gc-name">🧠 AI Academy</div><div class="gc-stats">10 chapters · 408 challenges · AI literacy for everyone</div><div class="gc-url">ai-academy-iota-eight.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
       <div class="gc"><div class="gc-name">🐉 Learn Chinese</div><div class="gc-stats">9 chapters · 380 challenges · Mandarin from English</div><div class="gc-url">learn-chinese-pearl.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
       <div class="gc"><div class="gc-name">🌅 Learn Spanish</div><div class="gc-stats">9 chapters · 333 challenges · Spanish from English</div><div class="gc-url">learn-spanish-silk.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
       <div class="gc"><div class="gc-name">🌊 Learn Japanese</div><div class="gc-stats">9 chapters · 344 challenges · Japanese from English</div><div class="gc-url">learn-japanese-rose-two.vercel.app</div><div class="gc-bar"><div class="gc-fill" style="width:100%"></div></div></div>
@@ -160,7 +160,7 @@ HTML = """<!DOCTYPE html>
       <div class="tl-item"><div class="tl-dot tl-done"></div><div class="tl-title">v2.0 — Full Platform</div><div class="tl-desc">Postgres, auth, 8 themes, PWA, sounds, daily challenges, leaderboards, 13+ page types</div><div class="tl-date">Mar 28, 2026</div></div>
       <div class="tl-item"><div class="tl-dot tl-done"></div><div class="tl-title">6 Games Launch</div><div class="tl-desc">Primer, NEXUS Quest, AI Academy, Learn Chinese, Learn Spanish, Learn Japanese</div><div class="tl-date">Mar 30, 2026</div></div>
       <div class="tl-item"><div class="tl-dot tl-done"></div><div class="tl-title">TTS + Rich Media</div><div class="tl-desc">Google Cloud Studio voices, ElevenLabs, images, code blocks, AI Tutor</div><div class="tl-date">Mar 31, 2026</div></div>
-      <div class="tl-item"><div class="tl-dot tl-done"></div><div class="tl-title">v2.5 — Anti-Cheat + Engagement</div><div class="tl-desc">Option shuffle, streak freeze, speed bonus, daily login rewards, spaced repetition, 100+ chapters</div><div class="tl-date">Apr 2, 2026</div></div>
+      <div class="tl-item"><div class="tl-dot tl-done"></div><div class="tl-title">v2.5 — Anti-Cheat + Engagement</div><div class="tl-desc">Option shuffle, streak freeze, speed bonus, daily login rewards, spaced repetition, 100+ chapters</div><div class="tl-date">Apr 3, 2026</div></div>
       <div class="tl-item"><div class="tl-dot tl-active"></div><div class="tl-title">v3.0 — Unified Platform</div><div class="tl-desc">One deployment, all games as courses, single sign-on, course creator</div><div class="tl-date">Coming soon</div></div>
       <div class="tl-item"><div class="tl-dot"></div><div class="tl-title">v4.0 — Social + Mobile</div><div class="tl-desc">Multiplayer, mobile app, social automation, email reports</div><div class="tl-date">Planned</div></div>
       <div class="tl-item"><div class="tl-dot"></div><div class="tl-title">v5.0 — Ecosystem</div><div class="tl-desc">Classroom mode, certificates, challenge editor, plugin marketplace</div><div class="tl-date">Future</div></div>
@@ -169,7 +169,7 @@ HTML = """<!DOCTYPE html>
 
   <div class="footer">
     <a href="https://github.com/thorski1/quest-engine">Quest Engine</a> · Open Source · MIT License<br>
-    Built by <a href="https://github.com/thorski1">thorski1</a> · Last updated Apr 2, 2026
+    Built by <a href="https://github.com/thorski1">thorski1</a> · Last updated Apr 3, 2026
   </div>
 
 </div>
