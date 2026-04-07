@@ -10,9 +10,9 @@ HTML = """<!DOCTYPE html>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Quest Engine — Roadmap</title>
-<meta name="description" content="The gold standard educational game engine. 6 games, 147 chapters, 6,691 challenges.">
+<meta name="description" content="The gold standard educational game engine. 6 games, 150 chapters, 6,811 challenges.">
 <meta property="og:title" content="Quest Engine Roadmap">
-<meta property="og:description" content="6 games, 147 chapters, 6,691 challenges across education, DevOps, AI, and 3 languages.">
+<meta property="og:description" content="6 games, 150 chapters, 6,811 challenges across education, DevOps, AI, and 3 languages.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
@@ -87,13 +87,13 @@ HTML = """<!DOCTYPE html>
 
   <div class="hero">
     <h1>🗺️ <span>Quest Engine</span> Roadmap</h1>
-    <p>The gold standard educational game engine — 6 games teaching kids, developers, AI practitioners, and language learners across 147 chapters.</p>
+    <p>The gold standard educational game engine — 6 games teaching kids, developers, AI practitioners, and language learners across 150 chapters.</p>
   </div>
 
   <div class="stats">
     <div class="stat"><div class="sv" style="color:var(--p)">6</div><div class="sl">Games</div></div>
-    <div class="stat"><div class="sv" style="color:var(--sec)">147</div><div class="sl">Chapters</div></div>
-    <div class="stat"><div class="sv" style="color:var(--w)">6,691</div><div class="sl">Challenges</div></div>
+    <div class="stat"><div class="sv" style="color:var(--sec)">150</div><div class="sl">Chapters</div></div>
+    <div class="stat"><div class="sv" style="color:var(--w)">6,811</div><div class="sl">Challenges</div></div>
     <div class="stat"><div class="sv" style="color:var(--acc)">82</div><div class="sl">Tests</div></div>
     <div class="stat"><div class="sv" style="color:var(--tb)">8</div><div class="sl">Themes</div></div>
   </div>
