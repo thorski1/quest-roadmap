@@ -10,9 +10,9 @@ HTML = """<!DOCTYPE html>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Quest Engine — Roadmap</title>
-<meta name="description" content="The gold standard educational game engine. 6 games, 178 chapters, 7,800+ challenges.">
+<meta name="description" content="The gold standard educational game engine. 6 games, 190+ chapters, 8,400+ challenges.">
 <meta property="og:title" content="Quest Engine Roadmap">
-<meta property="og:description" content="6 games, 178 chapters, 7,800+ challenges across education, DevOps, AI, and 3 languages.">
+<meta property="og:description" content="6 games, 190+ chapters, 8,400+ challenges across education, DevOps, AI, and 3 languages.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
@@ -87,12 +87,12 @@ HTML = """<!DOCTYPE html>
 
   <div class="hero">
     <h1>🗺️ <span>Quest Engine</span> Roadmap</h1>
-    <p>The gold standard educational game engine — 6 games teaching kids, developers, AI practitioners, and language learners across 178 chapters.</p>
+    <p>The gold standard educational game engine — 6 games teaching kids, developers, AI practitioners, and language learners across 190+ chapters.</p>
   </div>
 
   <div class="stats">
     <div class="stat"><div class="sv" style="color:var(--p)">16</div><div class="sl">Games</div></div>
-    <div class="stat"><div class="sv" style="color:var(--sec)">178</div><div class="sl">Chapters</div></div>
+    <div class="stat"><div class="sv" style="color:var(--sec)">190+</div><div class="sl">Chapters</div></div>
     <div class="stat"><div class="sv" style="color:var(--w)">7,800</div><div class="sl">Challenges</div></div>
     <div class="stat"><div class="sv" style="color:var(--acc)">82</div><div class="sl">Tests</div></div>
     <div class="stat"><div class="sv" style="color:var(--tb)">8</div><div class="sl">Themes</div></div>
@@ -124,6 +124,11 @@ HTML = """<!DOCTYPE html>
       <div class="item"><div class="item-icon">📱</div><div class="item-title">PWA + Sounds</div><div class="item-desc">Installable on mobile, offline caching, synthesized audio feedback for all game events.</div></div>
       <div class="item"><div class="item-icon">🏆</div><div class="item-title">Engagement</div><div class="item-desc">Daily challenges (2x XP), streaks + combos, leaderboards, achievements, adaptive difficulty, share button.</div></div>
       <div class="item"><div class="item-icon">📊</div><div class="item-title">Analytics</div><div class="item-desc">Admin dashboard, signup notifications, per-challenge pass rates, progress rings, streak calendar.</div></div>
+      <div class="item"><div class="item-icon">🍌</div><div class="item-title">Nano Banana Avatars</div><div class="item-desc">Free AI avatar generation via Gemini 2.5 Flash Image. 500/day, 10 styles, text-to-image + edit mode.</div></div>
+      <div class="item"><div class="item-icon">🎭</div><div class="item-title">TRELLIS 3D Upgrade</div><div class="item-desc">Convert 2D avatars to 3D GLB meshes with Microsoft TRELLIS via Replicate. Interactive 3D viewer with AR.</div></div>
+      <div class="item"><div class="item-icon">🖼️</div><div class="item-title">Avatar Gallery</div><div class="item-desc">Persistent avatar history. Save, equip, and manage multiple characters. Shown in header on every page.</div></div>
+      <div class="item"><div class="item-icon">🔍</div><div class="item-title">Smart Browse</div><div class="item-desc">Search, filter by category, sort by progress/name/challenges, paginated 24/page. 16 category filters.</div></div>
+      <div class="item"><div class="item-icon">🎬</div><div class="item-title">Video Game Splash</div><div class="item-desc">Animated splash screen with typewriter intro, floating particles, skip-on-return. 6 realm cards.</div></div>
       <div class="item"><div class="item-icon">⚔️</div><div class="item-title">RPG Character System</div><div class="item-desc">4 classes, 3 alignments, 4 narrative tones, 19 gear items, stat system. Full character creation flow.</div></div>
       <div class="item"><div class="item-icon">🔐</div><div class="item-title">Google OAuth</div><div class="item-desc">One-click Google sign-in. Auto account creation. Profile picture sync.</div></div>
       <div class="item"><div class="item-icon">🧪</div><div class="item-title">82 Tests + CI</div><div class="item-desc">Automated tests on Python 3.10/3.11/3.12 via GitHub Actions. Option shuffle, streak freeze, speed bonus all tested.</div></div>
